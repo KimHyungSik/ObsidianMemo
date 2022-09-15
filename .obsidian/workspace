@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.inbox/Android LruCache.md",
+            "file": "0.inbox/Flutter Dio.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Android LruCache.md",
+                "file": "0.inbox/Flutter Dio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Android LruCache.md",
+                "file": "0.inbox/Flutter Dio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Android LruCache.md"
+                "file": "0.inbox/Flutter Dio.md"
               }
             }
           },
@@ -143,15 +143,15 @@
   },
   "active": "582951743ce674b5",
   "lastOpenFiles": [
+    "0.inbox/Flutter Retrofit.md",
+    "0.inbox/Kotlin By.md",
+    "0.inbox/Flutter Server.md",
+    "4.Common/Flutter.md",
+    "0.inbox/Android LruCache.md",
     "0.inbox/Android PendingIntent.md",
     "0.inbox/Flutter Provider.md",
-    "0.inbox/Flutter Server.md",
-    "0.inbox/Kotlin By.md",
     "0.inbox/Coroutine suspendCancellableCoroutine.md",
     "0.inbox/Flutter Key.md",
-    "Templeate/Zettelkasten.md",
-    "2.Done/Android Hilt.md",
-    "2.Done/Kotlin flow.md",
-    "2.Done/Android Compose가 그려지는 방법.md"
+    "Templeate/Zettelkasten.md"
   ]
 }
