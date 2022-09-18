@@ -7,8 +7,12 @@
         "id": "582951743ce674b5",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1.InProgress/Flutter Dio.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
+                "file": "1.InProgress/Flutter Dio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
+                "file": "1.InProgress/Flutter Dio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templeate/Zettelkasten.md"
+                "file": "1.InProgress/Flutter Dio.md"
               }
             }
           },
@@ -138,11 +142,11 @@
   },
   "active": "582951743ce674b5",
   "lastOpenFiles": [
+    "Templeate/Zettelkasten.md",
     "0.inbox/Flutter DI(Get_it).md",
     "0.inbox/Flutter Key.md",
     "0.inbox/Flutter Server.md",
     "0.inbox/Flutter Provider.md",
-    "Templeate/Zettelkasten.md",
     "2.Done/Flutter Retrofit.md",
     "1.InProgress/Flutter Dio.md",
     "0.inbox/Android LruCache.md",
