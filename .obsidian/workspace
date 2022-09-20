@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.Done/Flutter Dio.md",
+            "file": "0.inbox/ProtoBuf vs Json.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/Flutter Dio.md",
+                "file": "0.inbox/ProtoBuf vs Json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/Flutter Dio.md",
+                "file": "0.inbox/ProtoBuf vs Json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/Flutter Dio.md"
+                "file": "0.inbox/ProtoBuf vs Json.md"
               }
             }
           },
@@ -140,15 +140,15 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "642297d93a8061f8",
+  "active": "582951743ce674b5",
   "lastOpenFiles": [
+    "2.Done/Flutter Dio.md",
     "Templeate/Zettelkasten.md",
     "0.inbox/Flutter DI(Get_it).md",
     "0.inbox/Flutter Key.md",
     "0.inbox/Flutter Server.md",
     "0.inbox/Flutter Provider.md",
     "2.Done/Flutter Retrofit.md",
-    "2.Done/Flutter Dio.md",
     "0.inbox/Android LruCache.md",
     "0.inbox/Kotlin By.md",
     "4.Common/Flutter.md"
