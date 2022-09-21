@@ -16,6 +16,7 @@ Protobuf
 
 ### 참고
 - [[Json 및 Protobuf]](https://www.youtube.com/watch?v=uGYZn6xk-hA)
+- [protobuf-gradle-plugin](https://github.com/google/protobuf-gradle-plugin)
 
 ### 연결된 메모
 - 
