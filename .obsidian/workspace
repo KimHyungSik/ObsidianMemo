@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.InProgress/Flutter Provider.md",
+            "file": "0.inbox/Flutter Stacked.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md",
+                "file": "0.inbox/Flutter Stacked.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md",
+                "file": "0.inbox/Flutter Stacked.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md"
+                "file": "0.inbox/Flutter Stacked.md"
               }
             }
           },
@@ -142,15 +142,15 @@
   },
   "active": "8a9303852a899b77",
   "lastOpenFiles": [
+    "0.inbox/Flutter Provider Selector.md",
+    "1.InProgress/Flutter Provider.md",
     "Templeate/Zettelkasten.md",
     "2.Done/Flutter Dio.md",
     "2.Done/RPC.md",
-    "1.InProgress/Flutter Provider.md",
     "0.inbox/Flutter Server.md",
     "0.inbox/Kotlin By.md",
     "0.inbox/gRPc.md",
     "2.Done/ProtoBuf vs Json.md",
-    "0.inbox/Flutter DI(Get_it).md",
-    "0.inbox/Flutter Key.md"
+    "0.inbox/Flutter DI(Get_it).md"
   ]
 }
