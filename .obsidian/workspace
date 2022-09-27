@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.inbox/Android KotlinDSL.md",
+            "file": "1.InProgress/Flutter Provider.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Android KotlinDSL.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Android KotlinDSL.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Android KotlinDSL.md"
+                "file": "1.InProgress/Flutter Provider.md"
               }
             }
           },
@@ -142,6 +142,7 @@
   },
   "active": "8a9303852a899b77",
   "lastOpenFiles": [
+    "1.InProgress/Android KotlinDSL.md",
     "0.inbox/Flutter Stacked.md",
     "0.inbox/Flutter Provider Selector.md",
     "1.InProgress/Flutter Provider.md",
@@ -150,7 +151,6 @@
     "2.Done/RPC.md",
     "0.inbox/Flutter Server.md",
     "0.inbox/Kotlin By.md",
-    "0.inbox/gRPc.md",
-    "2.Done/ProtoBuf vs Json.md"
+    "0.inbox/gRPc.md"
   ]
 }
