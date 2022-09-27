@@ -15,7 +15,17 @@ buildSrc
 이 방법은 유지 보수, 리팩터링 및 코드 테스트가 더 쉽다.
 
 KotlinDSL사용해보기
-Android
+Android Directory에 buildSrc 파일을 생성하고 build.gradle.kts파일을 생성한다. build.gradle.kts파일에  kotlinDSL을 사용 할 것을 작성하면 Gradle이 buildSrc의 buildgradle.kts 파일을 검사하여 스크립트를 생성한다. 
+```kotlin
+plugins {
+    `kotlin-dsl`
+
+repositories {
+    google()
+    mavenCentral()
+}
+```
+파일 생성이 끝났다면 gradle Sncy하면 Gradle이 동작하면서 buildSrc파일에 추가로 필요한 파일을 생성한다.(`build`, `.gradle` 등) 파일 생성이 완료 되었다면 의존성 및 안드로이드 설정을 관리할 파일을 만들어 준다. build/src/main/kotlin/  
 ### 참고
 - [Kotlin DSL + buildSrc으로 의존성 관리](https://beomseok95.tistory.com/367)
 - [# [Android] 멀티모듈에서 buildSrc + Kotlin DSL로 Dependency 관리하기](https://velog.io/@yuuuzzzin/Android-buildSrc-Kotlin-DSL%EB%A1%9C-Dependency-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
