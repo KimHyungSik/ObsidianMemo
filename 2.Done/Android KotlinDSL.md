@@ -117,6 +117,7 @@ dependencies {
 ### 참고
 - [Kotlin DSL + buildSrc으로 의존성 관리](https://beomseok95.tistory.com/367)
 - [# [Android] 멀티모듈에서 buildSrc + Kotlin DSL로 Dependency 관리하기](https://velog.io/@yuuuzzzin/Android-buildSrc-Kotlin-DSL%EB%A1%9C-Dependency-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
-
+- [Gradle](https://docs.gradle.org/current/userguide/migrating_from_groovy_to_kotlin_dsl.html)
+- [Android Developer](https://docs.gradle.org/current/userguide/migrating_from_groovy_to_kotlin_dsl.html)
 ### 연결된 메모
 - 
