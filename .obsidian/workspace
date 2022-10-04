@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.Done/Android KotlinDSL.md",
+            "file": "0.inbox/Kotlin Seialization.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/Android KotlinDSL.md",
+                "file": "0.inbox/Kotlin Seialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/Android KotlinDSL.md",
+                "file": "0.inbox/Kotlin Seialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/Android KotlinDSL.md"
+                "file": "0.inbox/Kotlin Seialization.md"
               }
             }
           },
@@ -140,8 +140,9 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "642297d93a8061f8",
+  "active": "8a9303852a899b77",
   "lastOpenFiles": [
+    "2.Done/Android KotlinDSL.md",
     "1.InProgress/Flutter Provider.md",
     "0.inbox/Flutter DI(Get_it).md",
     "0.inbox/Flutter Key.md",
@@ -150,7 +151,6 @@
     "0.inbox/Flutter ViewModel.md",
     "Templeate/Zettelkasten.md",
     "2.Done/Android Dagger Lazy.md",
-    "2.Done/Android KotlinDSL.md",
     "0.inbox/Flutter Stacked.md"
   ]
 }
