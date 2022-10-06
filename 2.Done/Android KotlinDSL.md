@@ -1,5 +1,5 @@
 ### 날짜 : 2022-09-27
-### 주제 : #gradle #buildSrc # DSL
+### 주제 : #Android #gradle #buildSrc #DSL
 ----
 ### 정리
 Kotlin DSL

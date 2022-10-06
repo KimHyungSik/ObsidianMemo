@@ -1,5 +1,5 @@
 ### 날짜 : 2022-09-14
-### 주제 : #Hilt #DI 
+### 주제 : #Android #Hilt #DI 
 ----
 ### 정리
 Hilt를 사용하기 위해서는 `@HiltAndroidApp`을 `Application`클래스에 추가 해야한다. `@HiltAndroidApp`어노테이션이 Hilt코드 생성을 트리거 한다.

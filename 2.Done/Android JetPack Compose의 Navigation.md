@@ -1,5 +1,5 @@
 ### 날짜 : 2022-08-10
-### 주제 : #Compose #Navigation
+### 주제 : #Android #Compose #Navigation
 ----
 ### 정리
 NavController를 중심으로 네이게이션, 백 스택등을 관리 하며 `rememberNavController()` 를 통해 NavController를 생성하여 사용 한다. 

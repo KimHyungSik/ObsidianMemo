@@ -31,5 +31,4 @@ class ViewModel extendsChangeNotifier{
 - [Pub.dev](https://pub.dev/packages/provider)
 
 ### 연결된 메모
-- [[FLutter]]
 - [[Flutter Provider Selector]]
