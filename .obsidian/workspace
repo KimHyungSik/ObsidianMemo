@@ -7,8 +7,12 @@
         "id": "84f448ef8e6d4d50",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0.inbox/Kotlin Serializtion.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Android",
+                "query": "tag:#Serializtion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
+                "file": "0.inbox/Kotlin Serializtion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
+                "file": "0.inbox/Kotlin Serializtion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templeate/Zettelkasten.md"
+                "file": "0.inbox/Kotlin Serializtion.md"
               }
             }
           },
@@ -139,6 +143,8 @@
   },
   "active": "84f448ef8e6d4d50",
   "lastOpenFiles": [
+    "0.inbox/2022-10-07.md",
+    "Templeate/Zettelkasten.md",
     "2.Done/ProtoBuf vs Json.md",
     "2.Done/RPC.md",
     "2.Done/Multipart.md",
@@ -146,8 +152,6 @@
     "2.Done/Flutter Retrofit.md",
     "2.Done/Flutter Dio.md",
     "2.Done/Dart fold, reduce.md",
-    "2.Done/Android Studio LayoutInspector.md",
-    "2.Done/Android KotlinDSL.md",
-    "2.Done/Android JetPack Compose의 Navigation.md"
+    "2.Done/Android Studio LayoutInspector.md"
   ]
 }
