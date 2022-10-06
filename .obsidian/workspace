@@ -7,12 +7,8 @@
         "id": "84f448ef8e6d4d50",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "0.inbox/Kotlin Serializtion.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -57,8 +53,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Kotlin Serializtion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Kotlin Serializtion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0.inbox/Kotlin Serializtion.md"
-              }
+              "state": {}
             }
           },
           {
@@ -141,17 +132,17 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "84f448ef8e6d4d50",
+  "active": "642297d93a8061f8",
   "lastOpenFiles": [
-    "0.inbox/2022-10-07.md",
+    "0.inbox/Kotlin Serializtion + Retrofit.md",
     "Templeate/Zettelkasten.md",
+    "0.inbox/2022-10-07.md",
+    "2.Done/Kotlin Serializtion.md",
     "2.Done/ProtoBuf vs Json.md",
     "2.Done/RPC.md",
     "2.Done/Multipart.md",
     "2.Done/Kotlin flow.md",
     "2.Done/Flutter Retrofit.md",
-    "2.Done/Flutter Dio.md",
-    "2.Done/Dart fold, reduce.md",
-    "2.Done/Android Studio LayoutInspector.md"
+    "2.Done/Flutter Dio.md"
   ]
 }

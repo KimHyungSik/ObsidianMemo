@@ -35,8 +35,30 @@ plugins {
 	id 'org.jetbrains.kotlin.jvm' version '1.7.20' 
 	id 'org.jetbrains.kotlin.plugin.serialization' version '1.7.20' 
 }
+
+build.gradle(Module)
+dependencies { 
+	// Json을 사용하기 위해 json lib를 설치 하였다
+	implementation 'org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.0' 
+}
 ```
 
+이후 직렬화할 객체에 `@Serializable` 어노테이션을 등록하여 사용할 수 있다.`Json.encodeToString()` 메서드를 통해서 객체를 Json형태의 String으로 직렬화 할 수 있다. 반대로는 `decondeFromString<T>()`메서드를 통해 String형태의 Json을 다시 객체로 변화 가능하다.
+```Kotlin
+import kotlinx.serialization.Serializable 
+
+@Serializable 
+data class Data(val a: Int, val b: String)
+
+fun main() {
+   val json = Json.encodeToString(Data(42, "str"))
+   val dataList = listOf(Data(42, "str"), Data(12, "test")) 
+   val jsonList = Json.encodeToString(dataList)
+}
+
+val obj = Json.decodeFromString<Data>("""{"a":42, "b": "str"}""")
+
+```
 ### 참고
 - [Kotlin](https://kotlinlang.org/docs/serialization.html)
 
