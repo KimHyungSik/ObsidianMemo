@@ -7,8 +7,12 @@
         "id": "84f448ef8e6d4d50",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0.inbox/Andorid MutilDex.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.inbox/Andorid MutilDex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.inbox/Andorid MutilDex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.inbox/Andorid MutilDex.md"
+              }
             }
           },
           {
@@ -132,17 +140,17 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "642297d93a8061f8",
+  "active": "84f448ef8e6d4d50",
   "lastOpenFiles": [
+    "2.Done/Android @JavascriptInterface.md",
     "0.inbox/Kotlin Serializtion + Retrofit.md",
-    "Templeate/Zettelkasten.md",
     "0.inbox/2022-10-07.md",
+    "Templeate/Zettelkasten.md",
     "2.Done/Kotlin Serializtion.md",
     "2.Done/ProtoBuf vs Json.md",
     "2.Done/RPC.md",
     "2.Done/Multipart.md",
     "2.Done/Kotlin flow.md",
-    "2.Done/Flutter Retrofit.md",
-    "2.Done/Flutter Dio.md"
+    "2.Done/Flutter Retrofit.md"
   ]
 }
