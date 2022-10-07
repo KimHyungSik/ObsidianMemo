@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -39,6 +39,6 @@
   "repelStrength": 10.1139705882353,
   "linkStrength": 0.928860294117647,
   "linkDistance": 250,
-  "scale": 0.24401336514517658,
+  "scale": 0.2668402945016338,
   "close": false
 }
