@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.inbox/무제노트.md",
+            "file": "0.inbox/Rxjava Processor vs Subject.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Serializtion",
+                "query": "tag:#Rxjava",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/무제노트.md",
+                "file": "0.inbox/Rxjava Processor vs Subject.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/무제노트.md",
+                "file": "0.inbox/Rxjava Processor vs Subject.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/무제노트.md"
+                "file": "0.inbox/Rxjava Processor vs Subject.md"
               }
             }
           },
@@ -143,14 +143,14 @@
   "active": "84f448ef8e6d4d50",
   "lastOpenFiles": [
     "1.InProgress/Rxjava BehaviorProcessor vs PublishProcessor.md",
+    "0.inbox/Rxjava Processor vs Subject.md",
+    "2.Done/Cold Publisher vs Hot Publisher.md",
     "Templeate/Zettelkasten.md",
     "1.InProgress/Andorid MutilDex.md",
     "2.Done/Android @JavascriptInterface.md",
     "0.inbox/Kotlin Serializtion + Retrofit.md",
     "0.inbox/2022-10-07.md",
     "2.Done/Kotlin Serializtion.md",
-    "2.Done/ProtoBuf vs Json.md",
-    "2.Done/RPC.md",
-    "2.Done/Multipart.md"
+    "2.Done/ProtoBuf vs Json.md"
   ]
 }

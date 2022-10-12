@@ -8,4 +8,5 @@
 - 
 
 ### 연관된 기술
-- 
+- [[Cold Publisher vs Hot Publisher]]
+- [[Rxjava Processor vs Subject]]
