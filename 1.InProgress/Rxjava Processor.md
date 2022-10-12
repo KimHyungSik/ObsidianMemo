@@ -14,8 +14,8 @@ BehaviorProcessor
 
 AsyncProcessor
 -  데이터 발행이 완료되면, 데이터 발행 완료 직전에 발행된 데이터만 발행하는 Processor
-- 마지막 데이터만 반환 한다고 생각하면 될거 
-- ![[Pasted image 20221013004022.png]]
+-  마지막 데이터만 반환 한다고 생각하면 될 것같음
+![[Pasted image 20221013004022.png]]
 
 ### 참고 자료
 - 
