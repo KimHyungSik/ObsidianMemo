@@ -17,6 +17,8 @@ AsyncProcessor
 -  마지막 데이터만 반환 한다고 생각하면 될 것같음
 ![[Pasted image 20221013004022.png]]
 
+ReplayProcessor
+![[Pasted image 20221013011017.png]]
 ### 참고 자료
 - 
 
