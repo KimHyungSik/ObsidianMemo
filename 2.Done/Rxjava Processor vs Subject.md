@@ -6,7 +6,7 @@ Processor는 Subject와 다르게 Flowable를 기초로 설계되어 있는 객�
 
 ### 참고
 - [stack overflow](https://stackoverflow.com/questions/51016586/rxjava-subjects-vs-processors)
-- 
+- [RxJava 강의 7](https://kangraemin.github.io/android/2021/09/15/cold_hot_publisher_subject/)
 
 ### 연결된 메모
-- 
+- [[Cold Publisher vs Hot Publisher]]

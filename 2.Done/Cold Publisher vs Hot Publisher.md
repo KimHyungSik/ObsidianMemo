@@ -17,4 +17,4 @@
 - 
 
 ### 연결된 메모
-- [[Rxjava BehaviorProcessor vs PublishProcessor]]
+- [[Rxjava Processor]]

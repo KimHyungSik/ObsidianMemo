@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "0.inbox"
+  "newFileFolderPath": "0.inbox",
+  "alwaysUpdateLinks": true
 }

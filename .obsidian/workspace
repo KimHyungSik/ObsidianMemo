@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.inbox/Rxjava Processor vs Subject.md",
+            "file": "1.InProgress/Rxjava Processor.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Rxjava Processor vs Subject.md",
+                "file": "1.InProgress/Rxjava Processor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Rxjava Processor vs Subject.md",
+                "file": "1.InProgress/Rxjava Processor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Rxjava Processor vs Subject.md"
+                "file": "1.InProgress/Rxjava Processor.md"
               }
             }
           },
@@ -142,8 +142,8 @@
   },
   "active": "84f448ef8e6d4d50",
   "lastOpenFiles": [
-    "1.InProgress/Rxjava BehaviorProcessor vs PublishProcessor.md",
-    "0.inbox/Rxjava Processor vs Subject.md",
+    "2.Done/Rxjava Processor vs Subject.md",
+    "1.InProgress/Rxjava Processor.md",
     "2.Done/Cold Publisher vs Hot Publisher.md",
     "Templeate/Zettelkasten.md",
     "1.InProgress/Andorid MutilDex.md",
