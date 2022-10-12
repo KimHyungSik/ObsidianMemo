@@ -7,8 +7,12 @@
         "id": "84f448ef8e6d4d50",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1.InProgress/Rxjava BehaviorProcessor vs PublishProcessor.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
+                "file": "1.InProgress/Rxjava BehaviorProcessor vs PublishProcessor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
+                "file": "1.InProgress/Rxjava BehaviorProcessor vs PublishProcessor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templeate/Zettelkasten.md"
+                "file": "1.InProgress/Rxjava BehaviorProcessor vs PublishProcessor.md"
               }
             }
           },
@@ -138,11 +142,11 @@
   },
   "active": "84f448ef8e6d4d50",
   "lastOpenFiles": [
+    "Templeate/Zettelkasten.md",
     "1.InProgress/Andorid MutilDex.md",
     "2.Done/Android @JavascriptInterface.md",
     "0.inbox/Kotlin Serializtion + Retrofit.md",
     "0.inbox/2022-10-07.md",
-    "Templeate/Zettelkasten.md",
     "2.Done/Kotlin Serializtion.md",
     "2.Done/ProtoBuf vs Json.md",
     "2.Done/RPC.md",

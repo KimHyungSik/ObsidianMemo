@@ -1,8 +1,8 @@
 ### 날짜 : 2022-10-12
-### 주제 :
+### 주제 : #Rxjava #Rxkotlin #BehaviorProcessor #PublishProcessor
 ----
 ### 정리
-
+ 
 
 ### 참고 자료
 - 
