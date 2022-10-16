@@ -18,6 +18,7 @@ AsyncProcessor
 ![[Pasted image 20221013004022.png]]
 
 ReplayProcessor
+- 이전에 나왔던 데이터들을 호출시 다시 순차적으로 방출해주는 Processor
 ![[Pasted image 20221013011017.png]]
 ### 참고 자료
 - 
