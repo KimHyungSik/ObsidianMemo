@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "d7edebae2aeaa99b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a65bbc5f95d302f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84f448ef8e6d4d50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Done/Android 활동에서 결과 가져오기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e318069327f9e1c3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "aa8333c4ef6cbfd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/Android Canvas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "558aa19863ea7cca",
+    "type": "split",
+    "children": [
+      {
+        "id": "53666028674048ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642297d93a8061f8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb7d28df68c3728f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Rxjava",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "19a356a4b6d01969",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 442.5
+  },
+  "right": {
+    "id": "f4dc8c27b2d9e6a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b5bc5f86d82e3b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c7d7d71cebb079a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0.inbox/Android Canvas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c84d4769d212150",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0.inbox/Android Canvas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d4252bcf6e9eb8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "571af12ed2775f23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0.inbox/Android Canvas.md"
+              }
+            }
+          },
+          {
+            "id": "30346aa745359d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templeate/Zettelkasten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "aa8333c4ef6cbfd6",
+  "lastOpenFiles": [
+    "Templeate/Zettelkasten.md",
+    "2.Done/Android JetPack Compose의 Navigation.md",
+    "2.Done/Android KotlinDSL.md",
+    "2.Done/Android 활동에서 결과 가져오기.md",
+    "0.inbox/Kotlin Sequences.md",
+    "2.Done/Andorid MutilDex.md",
+    "1.InProgress/Flutter Provider.md",
+    "0.inbox/Kotlin Serializtion + Retrofit.md",
+    "0.inbox/Rxjava BackPressure.md",
+    "0.inbox/Kotlin By.md"
+  ]
+}
