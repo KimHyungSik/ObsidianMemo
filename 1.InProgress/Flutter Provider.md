@@ -27,10 +27,11 @@ class ViewModel extendsChangeNotifier{
 }
 ```
 
-이후 Provider
+이후 Provider객체를 생성하기 위해서 Provider.of 메서드를 사용 할 수 있다.
 
 ### 참고
 - [Pub.dev](https://pub.dev/packages/provider)
+- [Provider를 통해 상태 관리하기](https://terry1213.github.io/flutter/flutter-provider/)
 
 ### 연결된 메모
 - [[Flutter Provider Selector]]
