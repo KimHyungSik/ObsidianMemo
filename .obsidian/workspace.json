@@ -13,36 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Done/Android 활동에서 결과 가져오기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e318069327f9e1c3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
-          },
-          {
-            "id": "aa8333c4ef6cbfd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/Android Canvas.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Android Canvas.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Android Canvas.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Android Canvas.md"
+                "file": "1.InProgress/Flutter Provider.md"
               }
             }
           },
@@ -171,20 +148,17 @@
     "width": 363.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "aa8333c4ef6cbfd6",
+  "active": "84f448ef8e6d4d50",
   "lastOpenFiles": [
+    "0.inbox/Flutter DI(Get_it).md",
+    "0.inbox/Flutter Key.md",
+    "0.inbox/gRPc.md",
+    "2.Done/Android 활동에서 결과 가져오기.md",
+    "0.inbox/Android Canvas.md",
     "Templeate/Zettelkasten.md",
     "2.Done/Android JetPack Compose의 Navigation.md",
     "2.Done/Android KotlinDSL.md",
-    "2.Done/Android 활동에서 결과 가져오기.md",
     "0.inbox/Kotlin Sequences.md",
-    "2.Done/Andorid MutilDex.md",
-    "1.InProgress/Flutter Provider.md",
-    "0.inbox/Kotlin Serializtion + Retrofit.md",
-    "0.inbox/Rxjava BackPressure.md",
-    "0.inbox/Kotlin By.md"
+    "2.Done/Andorid MutilDex.md"
   ]
 }
