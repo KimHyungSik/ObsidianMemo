@@ -45,14 +45,15 @@ data::class.apply {
 data::class.memberProperties  
     .first()  
     .apply {  
-        println(name)  
-        println(returnType)  
-        println(isAccessible)  
+        println(name)               // property 이름
+        println(returnType)         // property 타입
+        println(isAccessible)       // property public 여부
         if(!isAccessible) isAccessible = true  
-        println(getter.call(data))  
-        println(annotations)  
+        println(getter.call(data))  // property value
+        println(annotations)        // property의 어노테이션
     }
 ```
+여기서 프로퍼티의 어노테이션을 알아 낼 수 있기 때문에 어노테이션 사용 시 Reflection을 이용하여 어노테이션 별 동작을 구현할 수 있다.
 
 ### 참고
 - 
