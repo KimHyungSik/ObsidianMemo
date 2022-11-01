@@ -32,9 +32,16 @@ data::class.apply {
 
 	println(declaredMemberProperties)         // 확장 프로퍼티를 제외한 클래스에 선언된 모든 프로퍼티
 	println(memberProperties)                 // 확장 프로퍼티를 제외한 클래스와 상위 클래스의 모든 프로퍼티
-	println(declaredMemberExtensionProperties)
+	println(declaredMemberExtensionProperties)// 클래스에 선언된 확장 프로퍼티
+	
+	println(declaredFunctions)                // 확장 함수를 제외한 클래스에 선언된 함수 정보
+	println(memberFunctions)                  // 확장 함수를 제외한 클래스와 상위 클래스에 정의된 함수
+	println(declaredMemberExtensionFunctions) // 확장 함수 정보
 }
 ```
+
+## Class Properties 분석
+
 
 ### 참고
 - 
