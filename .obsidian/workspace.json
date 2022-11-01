@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "345cad76ac541b64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/Android Annotations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md",
+                "file": "0.inbox/Android Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md",
+                "file": "0.inbox/Android Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md"
+                "file": "0.inbox/Android Annotations.md"
               }
             }
           },
@@ -148,8 +161,10 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "84f448ef8e6d4d50",
+  "active": "345cad76ac541b64",
   "lastOpenFiles": [
+    "2.Done/Android 개발시 알아두면 좋은 어노테이션.md",
+    "1.InProgress/Flutter Provider.md",
     "0.inbox/Flutter DI(Get_it).md",
     "0.inbox/Flutter Key.md",
     "0.inbox/gRPc.md",
@@ -157,8 +172,6 @@
     "0.inbox/Android Canvas.md",
     "Templeate/Zettelkasten.md",
     "2.Done/Android JetPack Compose의 Navigation.md",
-    "2.Done/Android KotlinDSL.md",
-    "0.inbox/Kotlin Sequences.md",
-    "2.Done/Andorid MutilDex.md"
+    "2.Done/Android KotlinDSL.md"
   ]
 }
