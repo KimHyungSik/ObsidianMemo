@@ -41,7 +41,18 @@ data::class.apply {
 ```
 
 ## Class Properties 분석
-
+```Kotlin
+data::class.memberProperties  
+    .first()  
+    .apply {  
+        println(name)  
+        println(returnType)  
+        println(isAccessible)  
+        if(!isAccessible) isAccessible = true  
+        println(getter.call(data))  
+        println(annotations)  
+    }
+```
 
 ### 참고
 - 
