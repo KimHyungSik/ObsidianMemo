@@ -13,13 +13,22 @@ implementation "org.jetbrains.kotlin:kotlin-reflect:<version>"
 ### class 분석
 ```Kotlin
 data::class.apply {  
-    println(isAbstract)  
-    println(isCompanion)  
-    println(isOpen)  
-    println(isData)  
-    println(isFinal)  
-    println(isInner)  
-    println(isSealed)  
+    println(isAbstract)  // abstract인지 확인
+    println(isCompanion) // compaion인지 확인
+    println(isOpen)      // open class 인지 확인
+    println(isData)      // data class 인지 확인
+    println(isFinal)     // Finnal로 선언되었는지 확인
+    println(isInner)     // inner class인지 확인
+    println(isSealed)    // sealed class 인지 확인
+
+	println(primaryConstructor) // 주생성자 정보
+	println(constructors)  //모든 생성자 정보
+	constructors  
+	    .first()  
+	    .parameters        // 생성자 파라미터 정보
+		    .forEach {  
+			    println(it.name + " : " + it.type)  
+			}
 }
 ```
 
