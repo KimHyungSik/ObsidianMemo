@@ -29,6 +29,10 @@ data::class.apply {
 		    .forEach {  
 			    println(it.name + " : " + it.type)  
 			}
+
+	println(declaredMemberProperties)         // 확장 프로퍼티를 제외한 클래스에 선언된 모든 프로퍼티
+	println(memberProperties)                 // 확장 프로퍼티를 제외한 클래스와 상위 클래스의 모든 프로퍼티
+	println(declaredMemberExtensionProperties)
 }
 ```
 
