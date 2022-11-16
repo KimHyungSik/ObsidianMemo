@@ -67,7 +67,7 @@ fun StatefulCounter() {   
 끌어올린 상태는 공유할 수 있으므로 불필요한 리컴포지션을 방지하고 재사용성을 높이려면 **컴포저블에 필요한 상태만 전달**해야 합니다. 컴포저블 디자인 권장사항은 필요한 매개변수만 전달하는 것입니다.
 
 ### 참고
-- 
+- [Android Compose Codelap](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-1)
 
 ### 연결된 메모
-- 
+- [[Android Compose 배치 방법]]

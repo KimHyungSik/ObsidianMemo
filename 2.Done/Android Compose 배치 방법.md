@@ -1,5 +1,5 @@
 ### 날짜 : 2022-11-16
-### 주제 : #Android #Compse
+### 주제 : #Android #Compse #Codelap 
 ----
 ### 정리
 컨테이너의 **기본 축**(`Row`의 경우 가로축, `Column`의 경우 세로축) 위에 하위 컴포저블을 배치할 방식도 정할 수 있습니다.
@@ -15,7 +15,7 @@
 이러한 배치 외에도 `Arrangement.spacedBy()` 메서드를 사용하여 각 하위 컴포저블 사이에 고정된 공간을 추가할 수 있습니다.
 
 ### 참고
-- 
+- [Android Compose Codelap](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-1)
 
 ### 연결된 메모
 - 
