@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c95750182f8f975",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2.Done/Android Compose 배치 방법.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/Kotlin Reflection.md",
+                "file": "2.Done/Android Compose 배치 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/Kotlin Reflection.md",
+                "file": "2.Done/Android Compose 배치 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/Kotlin Reflection.md"
+                "file": "2.Done/Android Compose 배치 방법.md"
               }
             }
           },
@@ -163,15 +175,15 @@
   },
   "active": "642297d93a8061f8",
   "lastOpenFiles": [
+    "0.inbox/Flutter Server.md",
+    "2.Done/Android Compose 배치 방법.md",
+    "0.inbox/Android Annotations.md",
     "1.InProgress/Flutter Provider.md",
     "0.inbox/Flutter DI(Get_it).md",
     "0.inbox/Flutter Key.md",
     "0.inbox/gRPc.md",
     "2.Done/Android 활동에서 결과 가져오기.md",
     "0.inbox/Android Canvas.md",
-    "Templeate/Zettelkasten.md",
-    "2.Done/Android JetPack Compose의 Navigation.md",
-    "2.Done/Android KotlinDSL.md",
-    "0.inbox/Kotlin Sequences.md"
+    "Templeate/Zettelkasten.md"
   ]
 }
