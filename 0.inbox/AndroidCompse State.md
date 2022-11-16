@@ -42,6 +42,29 @@ val count: MutableState<Int> = mutableStateOf(0)
 
 - **스테이트리스(Stateless)** 컴포저블은 상태를 소유하지 않는 컴포저블입니다. 즉, 새 상태를 보유하거나 정의하거나 수정하지 않습니다.
 - **스테이트풀(Stateful)** 컴포저블은 시간이 지남에 따라 변할 수 있는 상태를 소유하는 컴포저블입니다.
+- 
+```Kotlin
+@Composable
+fun StatefulCounter() {    
+	var waterCount by remember { mutableStateOf(0) }    
+	var juiceCount by remember { mutableStateOf(0) }    
+	
+	StatelessCounter(waterCount, { waterCount++ })    
+	StatelessCounter(juiceCount, { juiceCount++ })
+}
+```
+
+![8211bd9e0a4c5db2.png](https://developer.android.com/static/codelabs/jetpack-compose-state/img/8211bd9e0a4c5db2.png?hl=ko)
+
+`juiceCount`가 수정되면 `StatefulCounter`가 재구성됩니다. 리컴포지션 중에 Compose는 `juiceCount`를 읽는 함수를 식별하고 이러한 함수의 리컴포지션만 트리거합니다.
+
+![2cb0dcdbe75dcfbf.png](https://developer.android.com/static/codelabs/jetpack-compose-state/img/2cb0dcdbe75dcfbf.png?hl=ko)
+
+사용자가 탭하여 `juiceCount`를 늘리면 `StatefulCounter`가 재구성되고 `juiceCount`를 읽는 `StatelessCounter`도 재구성됩니다. 하지만 `waterCount`를 읽는 `StatelessCounter`는 재구성되지 않습니다.
+
+![7fe6ee3d2886abd0.png](https://developer.android.com/static/codelabs/jetpack-compose-state/img/7fe6ee3d2886abd0.png?hl=ko)
+
+끌어올린 상태는 공유할 수 있으므로 불필요한 리컴포지션을 방지하고 재사용성을 높이려면 **컴포저블에 필요한 상태만 전달**해야 합니다. 컴포저블 디자인 권장사항은 필요한 매개변수만 전달하는 것입니다.
 
 ### 참고
 - 
