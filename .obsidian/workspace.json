@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "731136dc0bdf902f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/AndroidCompse State.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/Android Compose 배치 방법.md",
+                "file": "0.inbox/AndroidCompse State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/Android Compose 배치 방법.md",
+                "file": "0.inbox/AndroidCompse State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/Android Compose 배치 방법.md"
+                "file": "0.inbox/AndroidCompse State.md"
               }
             }
           },
@@ -173,10 +185,10 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "642297d93a8061f8",
+  "active": "731136dc0bdf902f",
   "lastOpenFiles": [
-    "0.inbox/Flutter Server.md",
     "2.Done/Android Compose 배치 방법.md",
+    "0.inbox/Flutter Server.md",
     "0.inbox/Android Annotations.md",
     "1.InProgress/Flutter Provider.md",
     "0.inbox/Flutter DI(Get_it).md",
