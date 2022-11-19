@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2f376a4a40bedd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/MVI접해보기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8839fc932258bb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/Jetpack Compose 사내 도입기(?).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3385ff9bc3db0072",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/NAVER Map in Jetpack Compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5436ff16e5537311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.inbox/Android Coroutine.md",
+                "file": "0.inbox/Android With Coroutine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Android Coroutine.md",
+                "file": "0.inbox/Android With Coroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Android Coroutine.md",
+                "file": "0.inbox/Android With Coroutine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Android Coroutine.md"
+                "file": "0.inbox/Android With Coroutine.md"
               }
             }
           },
