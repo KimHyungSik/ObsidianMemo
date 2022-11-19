@@ -28,7 +28,15 @@ Reduser
 
 MVI란 무엇인가
 Intent
-	
+1. User의 Events를 받아 Action을 만든다.
+Model
+1. Action을 Side Effect를 통해 State를 만든다.
+View
+1. 
+
+MVI의 순서
+User가 Events를 발생 시키면 Intent에서 Action을 만들어 Model에 보댄다. Model에서는 Side Effect(데이터를 가공하는 순수 함수)를 통해 데이터와 State를 생성, View에서 State를 받아 Uesr에게 보여준다.
+
 
 ### 참고
 - 
