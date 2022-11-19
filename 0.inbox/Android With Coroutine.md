@@ -42,7 +42,11 @@ withContext(NonCancellable)
 	- 해당 잡이 부모이면, 에러난 자식하나만 취소시킴
 	- supervisorScope도 사용 가능
 - try{} catch{}
-- Element
+- CoroutineExcpetionHandler : 에러처리를 미리 정의 하고 launch시에 handle을 넣어 준다.
+
+### Dispatcher
+ - Coroutine실행시 어떤 스레드를 사용할지 지정할 수 있다.
+
 
 ### 참고
 - 
