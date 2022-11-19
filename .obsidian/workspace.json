@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5436ff16e5537311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/Android With Coroutine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b82b24c8c6385077",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/KMM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d7e425278433bb97",
             "type": "leaf",
             "state": {
@@ -42,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "47c1e71bfaad504f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/Kotlin DSL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
