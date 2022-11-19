@@ -26,6 +26,8 @@ Reduser
 	Java에 있던 개념으로 
 	User의 Action을 받아서 State에 값을 누적시키는 역활로 활용할 수 있다.
 
+Side Effect
+
 MVI란 무엇인가
 Intent
 1. User의 Events를 받아 Action을 만든다.
@@ -37,6 +39,15 @@ View
 MVI의 순서
 User가 Events를 발생 시키면 Intent에서 Action을 만들어 Model에 보댄다. Model에서는 Side Effect(데이터를 가공하는 순수 함수)를 통해 데이터와 State를 생성, View에서 State를 받아 Uesr에게 보여준다.
 
+MVI의 장점
+1. State의 체계적 관리, User의 Event로 부터 State 까지를 체계적으로 관리가 가능하다.
+2. Error 발생 시, 이전 상태를 추적하기 쉽다.(scan, reduser를 이용해서)
+3. State의 경우 불변이기에 변수 관리에 용이하다.
+
+MVI 단점
+1. Rx or FLow를 통한 함수형 프로그래밍 방벙을 이해해야 하기때문에 러닝 커브가 높다
+2. 간단한 화면의 구성도 MVI 싸이클을 만들어서 관리해야한다.(오버 엔지니어링)
+3. 관리해야하는 함수, 화면 추가시 구현해야하는 메서드가 많다.
 
 ### 참고
 - 
