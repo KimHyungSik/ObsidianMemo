@@ -34,7 +34,16 @@ Launch
 
 ### Job, Cancellation
 - 부모가 취소된다면 자식의 Coroutine들도 모두 취소 된다.
- 
+withContext(NonCancellable)
+
+### Exceptions handling
+- 자식 중에 에러가 발생하면 부모에게 알리고 모든 자식을 취소 시킴
+- SupervisorJob
+	- 해당 잡이 부모이면, 에러난 자식하나만 취소시킴
+	- supervisorScope도 사용 가능
+- try{} catch{}
+- Element
+
 ### 참고
 - 
 
