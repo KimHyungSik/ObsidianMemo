@@ -10,9 +10,8 @@
 - 화면 일부 : ComposeView(xml View에서 Compose사용), AbstractComposeView(Compose -> View)
 
 숙련도를 요구한다.
-- Recompostion
+- Recomposition
 - SideEffects 에대한 지식을 요구
-
 
 ### 참고
 - JetpackCompose WokrSpaces 
