@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5436ff16e5537311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/Android Coroutine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/NAVER Map in Jetpack Compose.md",
+                "file": "0.inbox/Android Coroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/NAVER Map in Jetpack Compose.md",
+                "file": "0.inbox/Android Coroutine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/NAVER Map in Jetpack Compose.md"
+                "file": "0.inbox/Android Coroutine.md"
               }
             }
           },
@@ -173,10 +185,10 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "3385ff9bc3db0072",
+  "active": "5436ff16e5537311",
   "lastOpenFiles": [
-    "0.inbox/Jetpack Compose 사내 도입기(?).md",
     "0.inbox/NAVER Map in Jetpack Compose.md",
+    "0.inbox/Jetpack Compose 사내 도입기(?).md",
     "0.inbox/MVI접해보기.md",
     "0.inbox/Flutter Server.md",
     "0.inbox/Android Annotations.md",
