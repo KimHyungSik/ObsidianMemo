@@ -9,8 +9,13 @@
 - 전체화면 : Xml를 그냥 Compose로 작성
 - 화면 일부 : ComposeView(xml View에서 Compose사용), AbstractComposeView(Compose -> View)
 
+숙련도를 요구한다.
+- Recompostion
+- SideEffects 에대한 지식을 요구
+
+
 ### 참고
-- 
+- JetpackCompose WokrSpaces 
 
 ### 연결된 메모
 - 
