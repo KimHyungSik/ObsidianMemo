@@ -9,7 +9,6 @@
 하나의 Data logic, Business logic코드를 공통화 하여 사용할 수 있다.
 
 
-
 ### 참고
 - 
 

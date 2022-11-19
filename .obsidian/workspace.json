@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d7e425278433bb97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/ARCore, ARkit으로 증강현실 시작하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "47c1e71bfaad504f",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/KMM.md",
+                "file": "0.inbox/ARCore, ARkit으로 증강현실 시작하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/KMM.md",
+                "file": "0.inbox/ARCore, ARkit으로 증강현실 시작하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/KMM.md"
+                "file": "0.inbox/ARCore, ARkit으로 증강현실 시작하기.md"
               }
             }
           },
@@ -173,8 +185,10 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "b82b24c8c6385077",
+  "active": "d7e425278433bb97",
   "lastOpenFiles": [
+    "0.inbox/ARCore, ARkit으로 증강현실 시작하기.md",
+    "0.inbox/KMM.md",
     "0.inbox/Android With Coroutine.md",
     "0.inbox/Kotlin DSL.md",
     "0.inbox/NAVER Map in Jetpack Compose.md",
@@ -182,8 +196,6 @@
     "0.inbox/MVI접해보기.md",
     "0.inbox/Flutter Server.md",
     "0.inbox/Android Annotations.md",
-    "0.inbox/Flutter ViewModel.md",
-    "1.InProgress/AndroidCompse State.md",
-    "Pasted image 20221013011017.png"
+    "0.inbox/Flutter ViewModel.md"
   ]
 }
