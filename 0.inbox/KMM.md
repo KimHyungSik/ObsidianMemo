@@ -6,7 +6,9 @@
 - 아키텍쳐 공통화 필수
 
 현재는 UI킷은 제공 되지않고 있음
-하나의 Data logic, Business 
+하나의 Data logic, Business logic코드를 공통화 하여 사용할 수 있다.
+
+
 
 ### 참고
 - 
