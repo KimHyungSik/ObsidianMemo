@@ -8,24 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Android",
+      "query": "tag:Android",
       "color": {
         "a": 1,
         "rgb": 6938706
       }
     },
     {
-      "query": "file:Flutter",
+      "query": "tag:Flutter",
       "color": {
         "a": 1,
-        "rgb": 1815237
+        "rgb": 46079
       }
     },
     {
-      "query": "file:Kotlin",
+      "query": "tag:Kotlin",
       "color": {
         "a": 1,
-        "rgb": 9050088
+        "rgb": 16743168
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 10.1139705882353,
   "linkStrength": 0.928860294117647,
   "linkDistance": 250,
-  "scale": 0.2668402945016338,
+  "scale": 0.41964944257776404,
   "close": false
 }

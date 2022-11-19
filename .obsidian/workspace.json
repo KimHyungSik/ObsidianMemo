@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "84f448ef8e6d4d50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.InProgress/Flutter Provider.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72142f73e0f29ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Done/Kotlin Reflection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c95750182f8f975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Done/Android Compose 배치 방법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "731136dc0bdf902f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.InProgress/AndroidCompse State.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f2f376a4a40bedd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.inbox/무제파일.md",
+                "file": "0.inbox/MVI접해보기.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/무제파일.md",
+                "file": "0.inbox/MVI접해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/무제파일.md",
+                "file": "0.inbox/MVI접해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/무제파일.md"
+                "file": "0.inbox/MVI접해보기.md"
               }
             }
           },
@@ -199,15 +150,15 @@
   },
   "active": "f2f376a4a40bedd0",
   "lastOpenFiles": [
-    "1.InProgress/AndroidCompse State.md",
-    "2.Done/Android Compose 배치 방법.md",
-    "2.Done/Android Compose 성능 개선.md",
     "0.inbox/Flutter Server.md",
+    "0.inbox/MVI접해보기.md",
     "0.inbox/Android Annotations.md",
-    "1.InProgress/Flutter Provider.md",
-    "0.inbox/Flutter DI(Get_it).md",
-    "0.inbox/Flutter Key.md",
-    "0.inbox/gRPc.md",
-    "2.Done/Android 활동에서 결과 가져오기.md"
+    "0.inbox/Flutter ViewModel.md",
+    "1.InProgress/AndroidCompse State.md",
+    "Pasted image 20221013011017.png",
+    "Pasted image 20221013004022.png",
+    "Pasted image 20221013003151.png",
+    "Pasted image 20221013003400.png",
+    "이미지 2022. 8. 11. 오전 8.57.jpg"
   ]
 }
