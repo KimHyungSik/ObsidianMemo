@@ -79,12 +79,6 @@ mutableStateListOf<WellnessTask>().apply {addAll(getWellnessTasks()) }
 
 ```
 
-
-대신 단일 작업으로 초깃값을 사용하여 목록을 만든 후 다음과 같이 `remember` 함수에 전달합니다.
-
-
-`}`
-
 ### 참고
 - [Android Compose Codelap](https://developer.android.com/courses/pathways/jetpack-compose-for-android-developers-1)
 
