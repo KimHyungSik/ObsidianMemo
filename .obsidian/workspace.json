@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.inbox/Android Compose State holder.md",
+                "file": "Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Android Compose State holder.md",
+                "file": "Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Android Compose State holder.md",
+                "file": "Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Android Compose State holder.md"
+                "file": "Key.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   },
   "active": "60150f0d491a7105",
   "lastOpenFiles": [
+    "0.inbox/Android Compose State holder.md",
     "0.inbox/Flutter Provider Selector.md",
     "2.Done/Jetpack Compose 사내 도입기(?).md",
     "0.inbox/Rxjava BackPressure.md",
@@ -183,7 +184,6 @@
     "2.Done/Android With Coroutine.md",
     "2.Done/NAVER Map in Jetpack Compose.md",
     "1.InProgress/Flutter Provider.md",
-    "Key.md",
-    "0.inbox/Android PendingIntent.md"
+    "Key.md"
   ]
 }
