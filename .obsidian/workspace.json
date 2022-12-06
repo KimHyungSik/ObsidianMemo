@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c2c3d6360685bac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/Android Compose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Key.md",
+                "file": "0.inbox/Android Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Key.md",
+                "file": "0.inbox/Android Compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Key.md"
+                "file": "0.inbox/Android Compose.md"
               }
             }
           },
@@ -173,8 +185,9 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "60150f0d491a7105",
+  "active": "c2c3d6360685bac3",
   "lastOpenFiles": [
+    "Key.md",
     "0.inbox/Android Compose State holder.md",
     "0.inbox/Flutter Provider Selector.md",
     "2.Done/Jetpack Compose 사내 도입기(?).md",
@@ -183,7 +196,6 @@
     "2.Done/AndroidCompse State.md",
     "2.Done/Android With Coroutine.md",
     "2.Done/NAVER Map in Jetpack Compose.md",
-    "1.InProgress/Flutter Provider.md",
-    "Key.md"
+    "1.InProgress/Flutter Provider.md"
   ]
 }
