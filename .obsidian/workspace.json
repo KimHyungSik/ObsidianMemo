@@ -11,8 +11,12 @@
             "id": "2eb857bbf524119d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/Android Compose Side-Effect.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.inbox/Android Compose Side-Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.inbox/Android Compose Side-Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.inbox/Android Compose Side-Effect.md"
+              }
             }
           },
           {
@@ -142,15 +150,15 @@
   },
   "active": "2eb857bbf524119d",
   "lastOpenFiles": [
-    "1.InProgress/Flutter Provider.md",
-    "Key.md",
-    "2.Done/NAVER Map in Jetpack Compose.md",
-    "0.inbox/Flutter Provider Selector.md",
+    "2.Done/Android Compose 성능 개선.md",
+    "2.Done/Android Compose 배치 방법.md",
+    "0.inbox/Android Compose Side-Effect.md",
+    "Templeate/Zettelkasten.md",
+    "이미지 2022. 8. 11. 오전 8.57.jpg",
+    "Pasted image 20221013003756.png",
+    "0.inbox/Android Canvas.md",
     "0.inbox/Coroutine suspendCancellableCoroutine.md",
-    "0.inbox/Android PendingIntent.md",
-    "0.inbox/Android LruCache.md",
     "0.inbox/Android Compose State holder.md",
-    "0.inbox/Android Compose.md",
-    "0.inbox/Android Canvas.md"
+    "1.InProgress/Flutter Provider.md"
   ]
 }
