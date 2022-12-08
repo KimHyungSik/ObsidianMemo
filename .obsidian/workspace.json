@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2a65bbc5f95d302f",
+        "id": "b187ba206a2e983c",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e425278433bb97",
+            "id": "2eb857bbf524119d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0.inbox/Flutter Provider Selector.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ef8d557a5afd513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Done/NAVER Map in Jetpack Compose.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60150f0d491a7105",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Key.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2c3d6360685bac3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.InProgress/Flutter Provider.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.InProgress/Flutter Provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.InProgress/Flutter Provider.md"
-              }
+              "state": {}
             }
           },
           {
@@ -185,17 +140,17 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "c2c3d6360685bac3",
+  "active": "2eb857bbf524119d",
   "lastOpenFiles": [
+    "1.InProgress/Flutter Provider.md",
+    "Key.md",
+    "2.Done/NAVER Map in Jetpack Compose.md",
+    "0.inbox/Flutter Provider Selector.md",
     "0.inbox/Coroutine suspendCancellableCoroutine.md",
     "0.inbox/Android PendingIntent.md",
     "0.inbox/Android LruCache.md",
     "0.inbox/Android Compose State holder.md",
     "0.inbox/Android Compose.md",
-    "0.inbox/Android Canvas.md",
-    "Key.md",
-    "0.inbox/Flutter Provider Selector.md",
-    "2.Done/Jetpack Compose 사내 도입기(?).md",
-    "0.inbox/Rxjava BackPressure.md"
+    "0.inbox/Android Canvas.md"
   ]
 }
