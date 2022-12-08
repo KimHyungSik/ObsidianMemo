@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.inbox/Android Compose.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Android Compose.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Android Compose.md",
+                "file": "1.InProgress/Flutter Provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Android Compose.md"
+                "file": "1.InProgress/Flutter Provider.md"
               }
             }
           },
@@ -187,15 +187,15 @@
   },
   "active": "c2c3d6360685bac3",
   "lastOpenFiles": [
-    "Key.md",
+    "0.inbox/Coroutine suspendCancellableCoroutine.md",
+    "0.inbox/Android PendingIntent.md",
+    "0.inbox/Android LruCache.md",
     "0.inbox/Android Compose State holder.md",
+    "0.inbox/Android Compose.md",
+    "0.inbox/Android Canvas.md",
+    "Key.md",
     "0.inbox/Flutter Provider Selector.md",
     "2.Done/Jetpack Compose 사내 도입기(?).md",
-    "0.inbox/Rxjava BackPressure.md",
-    "2.Done/ARCore, ARkit으로 증강현실 시작하기.md",
-    "2.Done/AndroidCompse State.md",
-    "2.Done/Android With Coroutine.md",
-    "2.Done/NAVER Map in Jetpack Compose.md",
-    "1.InProgress/Flutter Provider.md"
+    "0.inbox/Rxjava BackPressure.md"
   ]
 }
