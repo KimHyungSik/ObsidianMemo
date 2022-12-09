@@ -8,6 +8,7 @@ Side-Effect : Compose function 외부에서 발생하는 앱 상태의 변화를
 	 effect란, UI를 방출하지 않는 composable function입니다.
 
 LaunchedEffect
+	Composable 함수중에 suspend function이 존재 하고 이런 suspend function을 Compose내에서 호출 하기 위해서 LaunchedEffect API를 제공 합니다
 DisposableEffect
 
 Saver
