@@ -35,7 +35,12 @@ LaunchedEffect(key){
 	side-effects를 처리하는 도중에 compose의 사태가 변경될때 특정 resource에대한 해재가 필요할때 
 	DisposableEffect를 사용한다. 
 	즉 LaunchedEffect와 동일하나, 재시작으로 인한 취소나 Compose leave로 인한 종료 
-	시 onDispose {..} 구문이 항상 호출됩니다.
+	시 onDispose {..} 구문이 항상 호출됩니다.DisposableEffect는 반드시 onDispose 구문을 구현해야 
+	하며, 미구현시 Compile error가 발생합니다. 만약 onDispose의 block을 비운채로 구현하는 형태의 코드
+	가 생긴다면 이는 다른 effect로 교체하는 게 좋습니다.
+
+### SideEffect
+
 Saver
 rememberupdateState
 produceState
