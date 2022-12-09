@@ -25,8 +25,17 @@ LaunchedEffect(key){
 	composable용 coroutine scope를 얻기 위해 rememberCoroutineScope를 사용 해야한다.
 	LaunchedEffect와 동일하게 compose의 lifecycle에 따른다.
 
-DisposableEffect
+### rememberUpdatedState
+	LaunchedEffect를 사용하는 시점에 lambda capturing의로 값들이 final로 들어가게된다. 하지만
+	LaunchedEffect외부에서 변경된 값을 사용하고 LaunchedEffect를 재시작 시키지 않고 어떻게
+	변경되는 값을 사용할 수 있을까. rememberUpdatedState를 한번 wrapping하여 값을 변동한다면 위와
+	같은 동작이 가능하다.
 
+### DisposableEffect
+	side-effects를 처리하는 도중에 compose의 사태가 변경될때 특정 resource에대한 해재가 필요할때 
+	DisposableEffect를 사용한다. 
+	즉 LaunchedEffect와 동일하나, 재시작으로 인한 취소나 Compose leave로 인한 종료 
+	시 onDispose {..} 구문이 항상 호출됩니다.
 Saver
 rememberupdateState
 produceState
