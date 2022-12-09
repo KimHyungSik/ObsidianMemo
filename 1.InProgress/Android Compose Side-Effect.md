@@ -40,10 +40,14 @@ LaunchedEffect(key){
 	가 생긴다면 이는 다른 effect로 교체하는 게 좋습니다.
 
 ### SideEffect
+	Composition이 성공적으로 이루어진 경우에 호출 됩니다. 종료 시점은 따로 없으며 recomposition이 이러 
+	날때마다 발생하므로 사용시 유의 해야합니다.
 
+### produceState
+	
 Saver
 rememberupdateState
-produceState
+
 derivedStateOf
 ### 참고
 - 
