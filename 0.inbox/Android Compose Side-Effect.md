@@ -7,8 +7,11 @@ Side-Effect : Compose function 외부에서 발생하는 앱 상태의 변화를
 	compostion이 완료될때 side-effect을 처리하는 composable function을 지원합니다.
 	 effect란, UI를 방출하지 않는 composable function입니다.
 
-LaunchedEffect
-	Composable 함수중에 suspend function이 존재 하고 이런 suspend function을 Compose내에서 호출 하기 위해서 LaunchedEffect API를 제공 합니다
+### LaunchedEffect
+	Composable 함수중에 suspend function이 존재 하고 이런 suspend function을Compose내에서 호출 하기 위해서 LaunchedEffect API를 제공 합니다. 
+	LaunchedEffect는 Compose의 생성 시(Compostion enter) launch 되고, Compose가 화면에서 사라지면(Compostion leave) cancel된다. 즉 Launch는 Composable의 lifecyle에 묶입니다.
+
+
 DisposableEffect
 
 Saver
