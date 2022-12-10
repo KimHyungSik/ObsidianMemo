@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f4dc8c27b2d9e6a0",
@@ -148,7 +149,7 @@
     "width": 363.5,
     "collapsed": true
   },
-  "active": "642297d93a8061f8",
+  "active": "d1168a47444465b9",
   "lastOpenFiles": [
     "0.inbox/Android Annotations.md",
     "1.InProgress/Android Compose Side-Effect.md",

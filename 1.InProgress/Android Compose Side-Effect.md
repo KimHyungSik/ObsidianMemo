@@ -44,13 +44,19 @@ LaunchedEffect(key){
 	날때마다 발생하므로 사용시 유의 해야합니다.
 
 ### produceState
-	
+	producesState는 Compose상태로 만들어서 State<T>를 반환 하게 도와줍니다.
+	추가적으로 suspend fun을 non-suspending하게 처리하여 State를 관리할 수 있게 할 수 있습니다.
+
+### derivedStateOf
+	MediatorLiveData의 기능과 비슷 하며 여러개의 State변경을 trigger삼아 자신의 상태를 변경 할 
+	수있습니다.
 Saver
 rememberupdateState
 
-derivedStateOf
+
 ### 참고
-- 
+- [Medium](https://medium.com/hongbeomi-dev/jetpack-compose-doc-%EC%9D%BD%EA%B8%B0-part1-%EA%B8%B0%EC%B4%88-9a11fd0327cc)
+- [투덜이의 리얼 블로그](https://tourspace.tistory.com/412)
 
 ### 연결된 메모
 - 
