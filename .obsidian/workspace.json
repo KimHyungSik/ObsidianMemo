@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.inbox/Android AccountManager.md",
+                "file": "Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.inbox/Android AccountManager.md",
+                "file": "Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.inbox/Android AccountManager.md",
+                "file": "Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0.inbox/Android AccountManager.md"
+                "file": "Key.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "e393c698adde4352",
   "lastOpenFiles": [
+    "0.inbox/Android AccountManager.md",
     "0.inbox/KMM.md",
     "1.InProgress/Android Compose Side-Effect.md",
     "1.InProgress/Flutter Provider.md",
@@ -193,7 +194,6 @@
     "2.Done/Android Compose 성능 개선.md",
     "2.Done/Android Compose 배치 방법.md",
     "Templeate/Zettelkasten.md",
-    "이미지 2022. 8. 11. 오전 8.57.jpg",
-    "Pasted image 20221013003756.png"
+    "이미지 2022. 8. 11. 오전 8.57.jpg"
   ]
 }
