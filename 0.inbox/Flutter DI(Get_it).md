@@ -22,14 +22,23 @@ GetIt getIt = GetIt.instance;
 void registerFactory<T>(FactoryFunc<T> func)
 getIt.registerFactory<T>(() => func())
 ```
-factory는 객체를 새성하는 함수를 인자로 받습니다. `<T>`를 호출할 때 func() 함수를 통해 매번 새로운 객체를 생산하여 제공합니다.
+registerFactory은 객체를 생성하는 함수를 인자로 받습니다. `<T>`를 호출 할 때 func() 함수를 통해 매번 새로운 객체를 생산하여 제공합니다.
 
 ### Singleton
 ```Dart
 void registerSingleton<T>(T instance)
+getIt.registerFactory<T>(T)
 ```
+registerSingleton은 객체 자체를 인자로 받습니다. `<T>`를 호출 할 때 인자로 받은 객체를 바로 제공 합니다.
 
-
+### LazySingleton
+```Dart
+void registerLazySingleton<T>(FactoryFunc<T> func)
+getIt.registerLazySingleton<T>(() => func())
+```
+registerLazySingleton은 객체를 생서하는 함수를 인자로 받는 점에서 registerFactory와 동일해 보이지만 
+registerLazySingleton에서는 `<T>`를 처음 호출할 때만 객체를 생성하고 이후에는 동일한 객체를 제공한다.
+생성시 리소스가 많이드는 객체의 경우 사용할 때 생성 하는 편이 초기 설정 시 에 포퍼먼스를 증가 시켜 
 ### 참고
 - [Pub.dev](https://pub.dev/packages/get_it)
 
