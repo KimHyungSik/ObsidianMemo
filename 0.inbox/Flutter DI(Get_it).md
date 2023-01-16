@@ -54,6 +54,9 @@ getIt.registerSingleton<CatRepository>(CatRepositoryImp(injector()));
 ```
 
 ### Named
+의존성을 작성하다 보면 두개의 다른 객체이지만 같은 타입의 경우 이름을 
+
+### Scope
 
 
 ### 참고
