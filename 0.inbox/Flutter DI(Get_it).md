@@ -15,6 +15,13 @@ Flutter에서는 GetIt이라는 Dependency Injection이 존재합니다.
 GetIt getIt = GetIt.instance;
 ```
 
+## 의존성 호출 방법
+```Dart
+var myAppModel = getIt<AppModel>();
+var myAppModel = GetIt.instance<AppModel>();
+```
+미리생성한 또는 GitIt으로 가져온 instance로 필요한 타입의 의존성을 호출할 수 있다.
+
 ## 의존성 등록 방법
 의존성을 주입할 객체는 일반적으로 앱의 시작 코드에서 GetIt에 객체 또는 객체를 생성할 함수를 등록 할 수 있습니다. GetIt에는 객체의 생명주기에 맞게 다양항 생성방버을 제공 하고 있습니다.
 #### Factory
@@ -39,6 +46,14 @@ getIt.registerLazySingleton<T>(() => func())
 registerLazySingleton은 객체를 생서하는 함수를 인자로 받는 점에서 registerFactory와 동일해 보이지만 
 registerLazySingleton에서는 `<T>`를 처음 호출할 때만 객체를 생성하고 이후에는 동일한 객체를 제공한다.
 생성시 리소스가 많이드는 객체의 경우 사용할 때 생성 하는 편이 초기 설정 시 에 포퍼먼스를 증가 시킬 수 있습니다.
+
+의존성 생성과정에서 의존성이 필요한 경우 getIt으로 바로 호출 제공이 가능하다. 이때 타입 추론이 가능 하다면 
+타입을 작성 하지 않아도 된다.
+```Dart
+getIt.registerSingleton<CatRepository>(CatRepositoryImp(injector()));
+```
+
+### Named
 
 
 ### 참고
