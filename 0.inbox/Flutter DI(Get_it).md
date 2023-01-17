@@ -57,10 +57,21 @@ getIt.registerSingleton<CatRepository>(CatRepositoryImp(injector()));
 ```
 
 ### Named
-의존성을 작성하다 보면 두개의 다른 객체이지만 같은 타입의 경우 이
+의존성을 작성하다 보면 두개의 다른 객체이지만 같은 타입의 경우 구분해서 사용하고 싶을때 instanceName을 사용할 수 있다. 객체를 등록 시, 객체 호출 시 instanceName을 사용하면 instanceName이 같은 객체만 호출하여 사용할 수 있다. instanceName가 정의 되고 안돼고도 다른 객체이다.
+```Dart
+injector.registerSingleton<int>(1, instanceName: "ONE");
+injector.registerSingleton<int>(2, instanceName: "TWO");
+
+// instanceName : 1
+print("injector : ${injector.get<int>(instanceName: "ONE")}");
+// instanceName : 2
+print("injector : ${injector.get<int>(instanceName: "TWO")}");
+// ERROR
+print("injector : ${injector.get<int>())}");
+```
 
 ### Scope
-
+Get It에는 Scope라는 개념이 추가로 등장합니다. Get It에서 Scope란 계층을 샇아올리는 것 이라고 생각할 수 있습니다. `pushNewScope`
 
 ### 참고
 - [Pub.dev](https://pub.dev/packages/get_it)
