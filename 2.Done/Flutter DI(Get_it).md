@@ -24,7 +24,7 @@ var myAppModel = GetIt.instance<AppModel>();
 미리생성한 또는 GitIt으로 가져온 instance로 필요한 타입의 의존성을 호출할 수 있다.
 
 ## 의존성 등록 방법
-의존성을 주입할 객체는 일반적으로 앱의 시작 코드에서 GetIt에 객체 또는 객체를 생성할 함수를 등록 할 수 있습니다. GetIt에는 객체의 생명주기에 맞게 다양항 생성방버을 제공 하고 있습니다.
+의존성을 주입할 객체는 일반적으로 앱의 시작 코드에서 GetIt에 객체 또는 객체를 생성할 함수를 등록 할 수 있습니다. GetIt에는 객체의 생명주기에 맞게 다양항 생성방법을 제공 하고 있습니다.Future 함수로 만들어서 main 함수에 앱시작전에 호출하는 방법이 있습니다.
 #### Factory
 ```Dart
 void registerFactory<T>(FactoryFunc<T> func)
@@ -32,7 +32,7 @@ getIt.registerFactory<T>(() => func())
 ```
 registerFactory은 객체를 생성하는 함수를 인자로 받습니다. `<T>`를 호출 할 때 func() 함수를 통해 매번 새로운 객체를 생산하여 제공합니다.
 
-Future 함수로 만들어서 main 함수에 앱시작전에 호출하는 방법이 있습니다.
+
 
 ### Singleton
 ```Dart
