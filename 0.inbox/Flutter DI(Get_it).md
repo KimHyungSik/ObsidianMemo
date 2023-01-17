@@ -18,6 +18,7 @@ GetIt getIt = GetIt.instance;
 ## 의존성 호출 방법
 ```Dart
 var myAppModel = getIt<AppModel>();
+var myAppModel = getIt.get<AppModel>()
 var myAppModel = GetIt.instance<AppModel>();
 ```
 미리생성한 또는 GitIt으로 가져온 instance로 필요한 타입의 의존성을 호출할 수 있다.
@@ -30,6 +31,8 @@ void registerFactory<T>(FactoryFunc<T> func)
 getIt.registerFactory<T>(() => func())
 ```
 registerFactory은 객체를 생성하는 함수를 인자로 받습니다. `<T>`를 호출 할 때 func() 함수를 통해 매번 새로운 객체를 생산하여 제공합니다.
+
+Future 함수로 만들어서 main 함수에 앱시작전에 호출하는 방법이 있습니다.
 
 ### Singleton
 ```Dart
@@ -54,7 +57,7 @@ getIt.registerSingleton<CatRepository>(CatRepositoryImp(injector()));
 ```
 
 ### Named
-의존성을 작성하다 보면 두개의 다른 객체이지만 같은 타입의 경우 이름을 
+의존성을 작성하다 보면 두개의 다른 객체이지만 같은 타입의 경우 이
 
 ### Scope
 
