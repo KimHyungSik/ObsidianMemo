@@ -71,7 +71,31 @@ print("injector : ${injector.get<int>())}");
 ```
 
 ### Scope
-Get It에는 Scope라는 개념이 추가로 등장합니다. Get It에서 Scope란 계층을 샇아올리는 것 이라고 생각할 수 있습니다. `pushNewScope`
+Get It에는 Scope라는 개념이 추가로 등장합니다. Get It에서 Scope란 계층을 샇아올리는 것 이라고 생각할 수 있습니다. `pushNewScope`를 통해 새로운 계층을 쌓을 수 있습니다. 계층이 추가되고 새로운 계층에 동일한 객체를 다시 등록하게 되면 Get It은 가장 상단의 계층의 객체를 반환 합니다.
+```Dart
+  Future<void> popScope();
+```
+```Dart
+void pushNewScope({void Function(GetIt getIt)? init,String scopeName, ScopeDisposeFunc dispose});
+```
+```Dart
+injector.registerSingleton<int>(1);
+injector.pushNewScope();
+injector.registerSingleton<int>(2);
+
+Future<void> popSocpe() async {
+	print("injector : ${injector.get<int>()}");
+	await injector.popScope();
+	print("injector : ${injector.get<int>()}");
+}
+
+//injector : 2
+//injector : 1
+```
+
+이 Scope에도 이름을 추가하여 ScopeName으로 계층을 관리 할 수 있도록 `popScopeTill`(같은 이름의 계층을 pop 한다. 같은 이름의 계층이 없다면 false를 반환한다.), `currentScopeName`등을 지원한다.
+
+
 
 ### 참고
 - [Pub.dev](https://pub.dev/packages/get_it)
