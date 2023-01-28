@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "483a6ba057425dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.InProgress/Flutter Flame Image Load.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/MVI접해보기.md",
+                "file": "1.InProgress/Flutter Flame Image Load.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/MVI접해보기.md",
+                "file": "1.InProgress/Flutter Flame Image Load.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/MVI접해보기.md"
+                "file": "1.InProgress/Flutter Flame Image Load.md"
               }
             }
           },
@@ -183,8 +195,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "642297d93a8061f8",
+  "active": "483a6ba057425dfb",
   "lastOpenFiles": [
+    "2.Done/MVI접해보기.md",
     "Key.md",
     "0.inbox/Android AccountManager.md",
     "0.inbox/KMM.md",
@@ -193,7 +206,6 @@
     "0.inbox/2022-12-23.md",
     "0.inbox/Android Annotations.md",
     "2.Done/Android Compose 성능 개선.md",
-    "2.Done/Android Compose 배치 방법.md",
-    "Templeate/Zettelkasten.md"
+    "2.Done/Android Compose 배치 방법.md"
   ]
 }
