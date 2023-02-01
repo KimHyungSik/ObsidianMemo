@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.InProgress/Flutter Flame Camera.md",
+                "file": "Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.InProgress/Flutter Flame Camera.md",
+                "file": "Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.InProgress/Flutter Flame Camera.md",
+                "file": "Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.InProgress/Flutter Flame Camera.md"
+                "file": "Key.md"
               }
             }
           },
@@ -221,6 +221,7 @@
   },
   "active": "c2be50d79f2f1bff",
   "lastOpenFiles": [
+    "1.InProgress/Flutter Flame Camera.md",
     "1.InProgress/Flutter Flame component.md",
     "0.inbox/Flutter Flame Image Load.md",
     "2.Done/MVI접해보기.md",
@@ -229,7 +230,6 @@
     "0.inbox/KMM.md",
     "1.InProgress/Android Compose Side-Effect.md",
     "1.InProgress/Flutter Provider.md",
-    "0.inbox/2022-12-23.md",
-    "0.inbox/Android Annotations.md"
+    "0.inbox/2022-12-23.md"
   ]
 }
