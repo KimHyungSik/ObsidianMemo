@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.InProgress/Android Compose Side-Effect.md",
+                "file": "2.Done/MVI접해보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.InProgress/Android Compose Side-Effect.md",
+                "file": "2.Done/MVI접해보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.InProgress/Android Compose Side-Effect.md",
+                "file": "2.Done/MVI접해보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.InProgress/Android Compose Side-Effect.md"
+                "file": "2.Done/MVI접해보기.md"
               }
             }
           },
@@ -221,15 +221,15 @@
   },
   "active": "c2be50d79f2f1bff",
   "lastOpenFiles": [
-    "Key.md",
-    "1.InProgress/Flutter Flame Camera.md",
-    "1.InProgress/Flutter Flame component.md",
-    "0.inbox/Flutter Flame Image Load.md",
+    "2.Done/Jetpack Compose 사내 도입기(?).md",
+    "2.Done/Kotlin flow.md",
+    "2.Done/NAVER Map in Jetpack Compose.md",
     "2.Done/MVI접해보기.md",
-    "0.inbox/Android AccountManager.md",
-    "0.inbox/KMM.md",
-    "1.InProgress/Android Compose Side-Effect.md",
-    "1.InProgress/Flutter Provider.md",
-    "0.inbox/2022-12-23.md"
+    "2.Done/Multipart.md",
+    "0.inbox/Flutter Provider Selector.md",
+    "0.inbox/Android PendingIntent.md",
+    "0.inbox/Android Compose State holder.md",
+    "0.inbox/Android Canvas.md",
+    "1.InProgress/Android Compose Side-Effect.md"
   ]
 }
