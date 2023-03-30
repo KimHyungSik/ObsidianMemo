@@ -93,14 +93,11 @@
             "id": "f69b710337708b7f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "무제 파일.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "2.Done/Android Compose Side-Effect.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -134,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Rxjava",
+                "query": "Coroutine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "2.Done/Android Compose Side-Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.canvas",
+                "file": "2.Done/Android Compose Side-Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.canvas"
+                "file": "2.Done/Android Compose Side-Effect.md"
               }
             }
           },
@@ -246,6 +243,8 @@
   },
   "active": "f69b710337708b7f",
   "lastOpenFiles": [
+    "무제 파일 1.canvas",
+    "2.Done/Android With Coroutine.md",
     "무제 파일.canvas",
     "0.inbox/무제 파일.md",
     "2.Done/Jetpack Compose 사내 도입기(?).md",
@@ -257,6 +256,6 @@
     "0.inbox/Android PendingIntent.md",
     "0.inbox/Android Compose State holder.md",
     "0.inbox/Android Canvas.md",
-    "1.InProgress/Android Compose Side-Effect.md"
+    "2.Done/Android Compose Side-Effect.md"
   ]
 }
