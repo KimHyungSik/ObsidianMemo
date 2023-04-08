@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Done/MVI접해보기.md",
+                "file": "2.Done/Flutter DI(Get_it).md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "provider",
+                "query": "...",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,7 +128,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/MVI접해보기.md",
+                "file": "2.Done/Flutter DI(Get_it).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/MVI접해보기.md",
+                "file": "2.Done/Flutter DI(Get_it).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/MVI접해보기.md"
+                "file": "2.Done/Flutter DI(Get_it).md"
               }
             }
           },
@@ -222,14 +222,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "642297d93a8061f8",
+  "active": "fb7d28df68c3728f",
   "lastOpenFiles": [
+    "2.Done/Dart fold, reduce.md",
+    "2.Done/MVI접해보기.md",
     "1.InProgress/Flutter Provider.md",
     "무제 파일 2.canvas",
     "0.inbox/Flutter Flame Image Load.md",
     "0.inbox/Flutter Provider Selector.md",
     "1.InProgress/Flutter Flame component.md",
-    "2.Done/MVI접해보기.md",
     "2.Done/Android Dagger Lazy.md",
     "2.Done/Android Compose Side-Effect.md",
     "무제 파일 1.canvas",
