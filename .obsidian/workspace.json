@@ -81,8 +81,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c669e37b01d8317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/일일 정리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -128,8 +141,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/Flutter DI(Get_it).md",
+                "file": "0.inbox/일일 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/Flutter DI(Get_it).md",
+                "file": "0.inbox/일일 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/Flutter DI(Get_it).md"
+                "file": "0.inbox/일일 정리.md"
               }
             }
           },
@@ -222,8 +234,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fb7d28df68c3728f",
+  "active": "6c669e37b01d8317",
   "lastOpenFiles": [
+    "2.Done/Flutter DI(Get_it).md",
+    "0.inbox/일일 정리.md",
     "2.Done/Dart fold, reduce.md",
     "2.Done/MVI접해보기.md",
     "1.InProgress/Flutter Provider.md",
@@ -236,7 +250,6 @@
     "무제 파일 1.canvas",
     "2.Done/Android With Coroutine.md",
     "무제 파일.canvas",
-    "0.inbox/무제 파일.md",
     "2.Done/Jetpack Compose 사내 도입기(?).md",
     "2.Done/Kotlin flow.md",
     "2.Done/NAVER Map in Jetpack Compose.md",
