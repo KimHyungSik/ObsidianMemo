@@ -19,7 +19,17 @@ Initializer<*>를 재정의하여 사용한다.
     -   Initializer 가 의존하는 다른 Initializer<> 객체의 목록을 리턴하도록 명시한다.
     -   이 메서드로 시작 시 앱이 Initializer 를 실행하는 순서를 제어할 수 있다.
 
-```Kotlin
+Initializer를 사용하기 위해서는 매니페스트에 provider를 추가해야한다.
+
+
+### 참고
+- [ANdroid](https://developer.android.com/topic/libraries/app-startup)
+- [누군가의 블러그](https://kwongdevelop.tistory.com/33)
+
+### 연결된 메모
+- 
+
+```kotlin
 // Initializes WorkManager. 
 class WorkManagerInitializer : Initializer<WorkManager> { 
 	// context : application context 
@@ -29,16 +39,9 @@ class WorkManagerInitializer : Initializer<WorkManager> {
 		return WorkManager.getInstance(context) 
 	} 
 	
-	override fun dependencies(): List<Class<out Initializer<*>>> { 
+	override fun dependencies(): List<Class<out Initializer<>>> { 
 		// No dependencies on other libraries. 
 		return emptyList() 
 	} 
 }
 ```
-
-### 참고
-- [ANdroid](https://developer.android.com/topic/libraries/app-startup)
-- [누군가의 블러그](https://kwongdevelop.tistory.com/33)
-
-### 연결된 메모
-- 
