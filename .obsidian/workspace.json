@@ -11,8 +11,12 @@
             "id": "f0ff14912573bc85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/Android App StartUp initialization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -60,6 +64,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5e3900b0c0e55262",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -81,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.inbox/Android App StartUp initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.inbox/Android App StartUp initialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.inbox/Android App StartUp initialization.md"
+              }
             }
           },
           {
@@ -152,15 +168,24 @@
   },
   "active": "f0ff14912573bc85",
   "lastOpenFiles": [
+    "1.InProgress/Flutter Provider.md",
+    "0.inbox/Android App StartUp initialization.md",
+    "1.InProgress/Flutter Flame component.md",
+    "1.InProgress/Flutter Flame Camera.md",
+    "0.inbox/Kotlin DSL.md",
+    "0.inbox/Kotlin Sequences.md",
+    "0.inbox/Kotlin Serializtion + Retrofit.md",
+    "0.inbox/Rxjava BackPressure.md",
+    "0.inbox/Flutter Stacked.md",
+    "0.inbox/Flutter Server.md",
+    "0.inbox/Flutter Flame Image Load.md",
+    "0.inbox/Flutter Key.md",
+    "0.inbox/일일 정리.md",
     "2.Done/Flutter DI(Get_it).md",
     "0.inbox/KMM.md",
     "무제 파일 2.canvas",
-    "1.InProgress/Flutter Flame component.md",
     "2.Done/MVI접해보기.md",
-    "0.inbox/일일 정리.md",
     "2.Done/Dart fold, reduce.md",
-    "1.InProgress/Flutter Provider.md",
-    "0.inbox/Flutter Flame Image Load.md",
     "0.inbox/Flutter Provider Selector.md",
     "2.Done/Android Dagger Lazy.md",
     "2.Done/Android Compose Side-Effect.md",
@@ -171,8 +196,6 @@
     "2.Done/Kotlin flow.md",
     "2.Done/NAVER Map in Jetpack Compose.md",
     "2.Done/Multipart.md",
-    "0.inbox/Android PendingIntent.md",
-    "0.inbox/Android Compose State holder.md",
-    "0.inbox/Android Canvas.md"
+    "0.inbox/Android PendingIntent.md"
   ]
 }
