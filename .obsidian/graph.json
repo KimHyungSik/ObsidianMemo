@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "KMM",
+  "collapse-filter": true,
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -39,6 +39,6 @@
   "repelStrength": 10.1139705882353,
   "linkStrength": 0.928860294117647,
   "linkDistance": 250,
-  "scale": 0.2597239469057343,
+  "scale": 1.0048233335301333,
   "close": false
 }

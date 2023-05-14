@@ -58,7 +58,7 @@ AppInitializer.getInstance(context) .initializeComponent(ExampleLoggerInitialize
 - [누군가의 블러그](https://kwongdevelop.tistory.com/33)
 
 ### 연결된 메모
-- 
+-  [[Android lage embedded device]]
 
 ```kotlin
 // Initializes WorkManager. 
