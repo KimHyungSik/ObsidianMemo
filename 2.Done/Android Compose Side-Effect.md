@@ -12,6 +12,7 @@ Side-Effect : Compose function 외부에서 발생하는 앱 상태의 변화를
 	하기 위해서 LaunchedEffect API를 제공 합니다. 
 	LaunchedEffect는 Compose의 생성 시(Compostion enter) launch 되고, Compose가 화면에서 사
 	라지면(Compostion leave) cancel된다. 즉 Launch는 Composable의 lifecyle에 묶입니다.
+key를 기준으로 key가 변경될때마다 LaunchedEffect의 suspend fun을 취소하고 재실행 합니다.
 - 사용 법
 Composable의 State가 바뀌게 되면 매번 새로운 리컴포지션이 일어나고 그럴때마다 LaunchedEffect가 새로 시작할 수 있다. 이를 피하기 위해서 LaunchedEffect에 Key를 넣어주고 이 Key가 변경 될때에만 LaunchedEffect를 재실행 하게 할 수있다.
 ```Kotlin
