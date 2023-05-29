@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Done/Android Compose Side-Effect.md",
+                "file": "2.Done/Android Compose Drawer.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/Android Compose Side-Effect.md",
+                "file": "2.Done/Android Compose Drawer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/Android Compose Side-Effect.md",
+                "file": "2.Done/Android Compose Drawer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/Android Compose Side-Effect.md"
+                "file": "2.Done/Android Compose Drawer.md"
               }
             }
           },
@@ -166,11 +166,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "91e766880204702b",
+  "active": "642297d93a8061f8",
   "lastOpenFiles": [
-    "2.Done/Android Compose가 그려지는 방법.md",
+    "Pasted image 20230529221105.png",
+    "0.inbox/Android Compose State holder.md",
     "2.Done/Android Compose 성능 개선.md",
+    "Pasted image 20230529221017.png",
+    "Pasted image 20230529221031.png",
+    "2.Done/Android Compose Drawer.md",
     "2.Done/Android Compose 배치 방법.md",
+    "2.Done/Android Compose Side-Effect.md",
+    "2.Done/Android Compose가 그려지는 방법.md",
     "0.inbox/Android lage embedded device.md",
     "0.inbox/Android Canvas.md",
     "0.inbox/Android Annotations.md",
@@ -186,7 +192,6 @@
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
     "2.Done/Android Studio LayoutInspector.md",
-    "0.inbox/Android Compose State holder.md",
     "0.inbox/Android PendingIntent.md",
     "1.InProgress/Flutter Provider.md",
     "1.InProgress/Flutter Flame component.md",
@@ -194,9 +199,6 @@
     "0.inbox/Kotlin DSL.md",
     "0.inbox/Kotlin Sequences.md",
     "0.inbox/Kotlin Serializtion + Retrofit.md",
-    "0.inbox/Rxjava BackPressure.md",
-    "0.inbox/Flutter Stacked.md",
-    "0.inbox/Flutter Server.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
