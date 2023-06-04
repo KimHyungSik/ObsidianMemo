@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f663a20c5c3e25a2",
+        "id": "319a3f95c1d0fe4f",
         "type": "tabs",
         "children": [
           {
-            "id": "9d0da218598ba97d",
+            "id": "40661e30529dc195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.Done/Android Compose Saver.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82017d5f66bf1705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2.Done/Android Compose 배치 방법.md",
+                "file": "2.Done/Android Compose Side-Effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Compse",
+                "query": "DisposableEffect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.Done/Android Compose Saver.md",
+                "file": "2.Done/Android Compose Side-Effect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.Done/Android Compose Saver.md",
+                "file": "2.Done/Android Compose Side-Effect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.Done/Android Compose Saver.md"
+                "file": "2.Done/Android Compose Side-Effect.md"
               }
             }
           },
@@ -179,15 +167,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fb7d28df68c3728f",
+  "active": "40661e30529dc195",
   "lastOpenFiles": [
-    "ignore/Key.md",
+    "2.Done/Android Compose Saver.md",
+    "0.inbox/Android Compose State holder.md",
     "2.Done/Android Compose 배치 방법.md",
-    "0.inbox/Android Compose snapshotFlow.md",
+    "2.Done/AndroidCompse State.md",
+    "무제 파일 8.canvas",
+    "ignore/Key.md",
+    "2.Done/Android Compose snapshotFlow.md",
     "2.Done/Android Studio LayoutInspector.md",
     "2.Done/Flutter Dio.md",
-    "2.Done/Android Compose Saver.md",
-    "2.Done/AndroidCompse State.md",
     "무제 폴더",
     "2.Done/Android Compose 성능 개선.md",
     "2.Done/Android Compose Side-Effect.md",
@@ -197,7 +187,6 @@
     "무제 파일 6.canvas",
     "2.Done/Android Compose Drawer.md",
     "Pasted image 20230529221105.png",
-    "0.inbox/Android Compose State holder.md",
     "Pasted image 20230529221017.png",
     "Pasted image 20230529221031.png",
     "2.Done/Android Compose가 그려지는 방법.md",
@@ -217,7 +206,6 @@
     "무제 파일 3.canvas",
     "0.inbox/Android PendingIntent.md",
     "1.InProgress/Flutter Provider.md",
-    "1.InProgress/Flutter Flame component.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"

@@ -1,5 +1,5 @@
 ### 날짜 : 2023-06-04
-### 주제 : #Andorid #Compse #State
+### 주제 : #Andorid #Compse #State 
 ----
 ### 정리
 rememberSaveable은 Bundle이 가능한 타입에 대에서 지원하기 때문에 Bundle로 래핑할 수 없는 객체의 경우에는 Savedr를 구성하여 저장해야 한다.
