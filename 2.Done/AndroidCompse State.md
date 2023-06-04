@@ -36,7 +36,7 @@ val count: MutableState<Int> = mutableStateOf(0)
 ```
 
 [`remember`](https://developer.android.com/reference/kotlin/androidx/compose/runtime/package-summary?hl=ko#remember(kotlin.Function0))는 컴포지션에 객체를 저장하고, `remember`가 호출되는 소스 위치가 리컴포지션 중에 다시 호출되지 않으면 객체를 삭제합니다. `remember`를 사용하면 리컴포지션 간에 상태를 유지하는 데 도움이 되지만 **구성 변경 간에는 유지되지 않습니다**. 이를 위해서는 `remember` 대신 [`rememberSaveable`](https://developer.android.com/reference/kotlin/androidx/compose/runtime/saveable/package-summary?hl=ko#rememberSaveable(kotlin.Array,androidx.compose.runtime.saveable.Saver,kotlin.String,kotlin.Function0))을 사용해야 합니다.
-`rememberSaveable`은 [`Bundle`](https://developer.android.com/reference/android/os/Bundle?hl=ko)에 저장할 수 있는 모든 값을 자동으로 저장합니다. 다른 값의 경우에는 맞춤 Saver 객체를 전달할 수 있습니다. [Compose에서 상태 복원](https://developer.android.com/jetpack/compose/state?hl=ko#restore-ui-state)에 관한 자세한 내용은 문서를 참고하세요.
+`rememberSaveable`은 [`Bundle`](https://developer.android.com/reference/android/os/Bundle?hl=ko)에 저장할 수 있는 모든 값을 자동으로 저장합니다. 다른 값의 경우에는 맞춤 Saver[[Android Compose Saver]] 객체를 전달할 수 있습니다. [Compose에서 상태 복원](https://developer.android.com/jetpack/compose/state?hl=ko#restore-ui-state)에 관한 자세한 내용은 문서를 참고하세요.
 
 `remember`를 사용하여 객체를 저장하는 컴포저블에는 내부 상태가 포함되어 있어 컴포저블을 `스테이트풀(Stateful)`로 만듭니다. 이는 호출자가 상태를 제어할 필요가 없고 상태를 직접 관리하지 않아도 상태를 사용할 수 있는 경우에 유용합니다. 그러나 **내부 상태를 갖는 컴포저블은 재사용 가능성이 적고 테스트하기가 더 어려운 경향이 있습니다**. **상태를 보유하지 않는 컴포저블을 스테이트리스(Stateless) 컴포저블이라고 합니다**. 상태 끌어올리기를 사용하면 **스테이트리스(Stateless)** 컴포저블을 쉽게 만들 수 있습니다.
 
