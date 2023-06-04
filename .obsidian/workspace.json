@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ignore/Key.md",
+                "file": "2.Done/AndroidCompse State.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "workma",
+                "query": "rememberSa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ignore/Key.md",
+                "file": "2.Done/AndroidCompse State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ignore/Key.md",
+                "file": "2.Done/AndroidCompse State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ignore/Key.md"
+                "file": "2.Done/AndroidCompse State.md"
               }
             }
           },
@@ -166,8 +167,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "642297d93a8061f8",
+  "active": "fb7d28df68c3728f",
   "lastOpenFiles": [
+    "ignore/Key.md",
     "ignore",
     "Pasted image 20221013003151.png",
     "무제 파일 7.canvas",
