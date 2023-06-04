@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rememberSa",
+                "query": "saver",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,6 +169,9 @@
   },
   "active": "fb7d28df68c3728f",
   "lastOpenFiles": [
+    "2.Done/Android Compose 성능 개선.md",
+    "2.Done/Android Compose Side-Effect.md",
+    "2.Done/AndroidCompse State.md",
     "ignore/Key.md",
     "ignore",
     "Pasted image 20221013003151.png",
@@ -177,11 +180,9 @@
     "2.Done/Android Compose Drawer.md",
     "Pasted image 20230529221105.png",
     "0.inbox/Android Compose State holder.md",
-    "2.Done/Android Compose 성능 개선.md",
     "Pasted image 20230529221017.png",
     "Pasted image 20230529221031.png",
     "2.Done/Android Compose 배치 방법.md",
-    "2.Done/Android Compose Side-Effect.md",
     "2.Done/Android Compose가 그려지는 방법.md",
     "0.inbox/Android lage embedded device.md",
     "0.inbox/Android Canvas.md",
@@ -204,7 +205,6 @@
     "1.InProgress/Flutter Flame Camera.md",
     "0.inbox/Kotlin DSL.md",
     "0.inbox/Kotlin Sequences.md",
-    "0.inbox/Kotlin Serializtion + Retrofit.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"

@@ -51,7 +51,11 @@ LaunchedEffect(key){
 ### derivedStateOf
 	MediatorLiveData의 기능과 비슷 하며 여러개의 State변경을 trigger삼아 자신의 상태를 변경 할 
 	수있습니다.
-Saver
+
+## snapshotFlow
+
+ 
+
 rememberupdateState
 
 
