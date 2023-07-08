@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
+                "file": "1.InProgress/Django 설치.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
+                "file": "1.InProgress/Django 설치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
+                "file": "1.InProgress/Django 설치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md"
+                "file": "1.InProgress/Django 설치.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "d83beb2c1e884158",
   "lastOpenFiles": [
-    "무제 폴더/무제 파일.md",
+    "0.inbox/Rxjava BackPressure.md",
+    "1.InProgress/Django 설치.md",
     "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
+    "무제 폴더/무제 파일.md",
     "무제 파일 9.canvas",
     "2.Done/Android Compose Saver.md",
     "0.inbox/Android Compose State holder.md",
@@ -203,10 +205,8 @@
     "2.Done/Andorid MutilDex.md",
     "2.Done/Andorid Intent Filter.md",
     "0.inbox/Flutter Key.md",
-    "0.inbox/Android WorkManager.md",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
-    "0.inbox/Android PendingIntent.md",
     "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
