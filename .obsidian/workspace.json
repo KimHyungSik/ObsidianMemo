@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,7 +166,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "fb7d28df68c3728f",
+  "active": "642297d93a8061f8",
   "lastOpenFiles": [
     "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
     "1.InProgress/Flutter localizations.md",
