@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.InProgress/Flutter localizations.md",
+                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.InProgress/Flutter localizations.md",
+                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.InProgress/Flutter localizations.md",
+                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.InProgress/Flutter localizations.md"
+                "file": "무제 폴더/뮤즈(MUZE) 킥오프 회의.md"
               }
             }
           },
@@ -166,10 +166,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "642297d93a8061f8",
+  "active": "d83beb2c1e884158",
   "lastOpenFiles": [
-    "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
     "1.InProgress/Flutter localizations.md",
+    "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
     "무제 폴더/무제 파일.md",
     "1.InProgress/Django 설치.md",
     "0.inbox/Rxjava BackPressure.md",
