@@ -11,7 +11,7 @@
             "id": "e5a649f2ef121339",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -160,7 +160,15 @@
   },
   "active": "e5a649f2ef121339",
   "lastOpenFiles": [
+    "Templeate/Zettelkasten.md",
+    "2.Done/MVI접해보기.md",
+    "2.Done/Rxjava Processor vs Subject.md",
+    "2.Done/Android 개발시 알아두면 좋은 어노테이션.md",
+    "2.Done/Android Compose Side-Effect.md",
+    "2.Done/Andorid Intent Filter.md",
+    "ignore/Key.md",
     "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
+    "무제 파일 2.canvas",
     "1.InProgress/Flutter localizations.md",
     "무제 폴더/무제 파일.md",
     "1.InProgress/Django 설치.md",
@@ -171,13 +179,11 @@
     "2.Done/Android Compose 배치 방법.md",
     "2.Done/AndroidCompse State.md",
     "무제 파일 8.canvas",
-    "ignore/Key.md",
     "2.Done/Android Compose snapshotFlow.md",
     "2.Done/Android Studio LayoutInspector.md",
     "2.Done/Flutter Dio.md",
     "무제 폴더",
     "2.Done/Android Compose 성능 개선.md",
-    "2.Done/Android Compose Side-Effect.md",
     "ignore",
     "Pasted image 20221013003151.png",
     "무제 파일 7.canvas",
@@ -192,14 +198,8 @@
     "0.inbox/Android Annotations.md",
     "0.inbox/Android AccountManager.md",
     "무제 파일 5.canvas",
-    "2.Done/Kotlin Reflection.md",
-    "2.Done/Android App StartUp initialization.md",
-    "2.Done/Android 개발시 알아두면 좋은 어노테이션.md",
-    "2.Done/Andorid MutilDex.md",
-    "2.Done/Andorid Intent Filter.md",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
-    "무제 파일 2.canvas",
     "무제 파일 1.canvas",
     "무제 파일.canvas"
   ]
