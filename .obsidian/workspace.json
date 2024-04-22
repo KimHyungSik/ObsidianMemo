@@ -11,8 +11,12 @@
             "id": "e5a649f2ef121339",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "무제 폴더/무제 파일 1.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "무제 폴더/무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "무제 폴더/무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "무제 폴더/무제 파일 1.md"
+              }
             }
           },
           {
@@ -160,6 +168,7 @@
   },
   "active": "e5a649f2ef121339",
   "lastOpenFiles": [
+    "무제 폴더/무제 파일 1.md",
     "Templeate/Zettelkasten.md",
     "2.Done/MVI접해보기.md",
     "2.Done/Rxjava Processor vs Subject.md",
@@ -196,7 +205,6 @@
     "0.inbox/Android lage embedded device.md",
     "0.inbox/Android Canvas.md",
     "0.inbox/Android Annotations.md",
-    "0.inbox/Android AccountManager.md",
     "무제 파일 5.canvas",
     "무제 파일 4.canvas",
     "무제 파일 3.canvas",
