@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cd3640cc797d790c",
+        "id": "0f912a007190d0a3",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a649f2ef121339",
+            "id": "563a81a154bd66f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templeate/Zettelkasten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templeate/Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templeate/Zettelkasten.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e5a649f2ef121339",
+  "active": "563a81a154bd66f4",
   "lastOpenFiles": [
+    "Templeate/Zettelkasten.md",
     "ignore/Key.md",
     "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
     "무제 폴더/무제 파일 1.md",
@@ -179,7 +172,6 @@
     "1.InProgress/Flutter localizations.md",
     "1.InProgress/Flutter Flame Camera.md",
     "1.InProgress/Flutter Flame component.md",
-    "Templeate/Zettelkasten.md",
     "2.Done/MVI접해보기.md",
     "2.Done/Rxjava Processor vs Subject.md",
     "2.Done/Android 개발시 알아두면 좋은 어노테이션.md",
