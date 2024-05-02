@@ -11,8 +11,12 @@
             "id": "563a81a154bd66f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0.inbox/Dart part.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0.inbox/Dart part.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0.inbox/Dart part.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0.inbox/Dart part.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "563a81a154bd66f4",
   "lastOpenFiles": [
+    "0.inbox/Flutter Stacked.md",
+    "0.inbox/Dart part.md",
     "Templeate/Zettelkasten.md",
     "ignore/Key.md",
     "무제 폴더/뮤즈(MUZE) 킥오프 회의.md",
@@ -187,8 +197,6 @@
     "2.Done/AndroidCompse State.md",
     "무제 파일 8.canvas",
     "2.Done/Android Compose snapshotFlow.md",
-    "2.Done/Android Studio LayoutInspector.md",
-    "2.Done/Flutter Dio.md",
     "무제 폴더",
     "ignore",
     "Pasted image 20221013003151.png",
