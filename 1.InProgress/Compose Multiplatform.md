@@ -9,7 +9,8 @@
 - _iosApp_ is an Xcode project that builds into an iOS application. It depends on and uses the shared module as an iOS framework.
 
 ### 참고
-- 
+- https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-create-first-app.html#examine-the-project-structure
+- coil: https://velog.io/@mraz3068/How-to-load-Network-Image-by-Coil-in-Compose-Multiplatform
 
 ### 연결된 메모
 - 
