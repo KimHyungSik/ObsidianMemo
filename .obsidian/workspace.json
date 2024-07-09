@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d85b5e5ed7f3e66f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "563a81a154bd66f4",
+  "active": "d85b5e5ed7f3e66f",
   "lastOpenFiles": [
     "0.inbox/Dart part.md",
     "1.InProgress/Compose Multiplatform.md",
