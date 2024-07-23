@@ -38,9 +38,19 @@
                 "currentVersion": "1.6.5"
               }
             }
+          },
+          {
+            "id": "6cfa3e969618d997",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -187,7 +197,7 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "826ff76e640d6d26",
+  "active": "6cfa3e969618d997",
   "lastOpenFiles": [
     "0.inbox/Dart part.md",
     "1.InProgress/Compose Multiplatform.md",
